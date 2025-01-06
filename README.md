@@ -1,7 +1,7 @@
 # CoreLex Terminal
 
 > **Your intelligent Solana co-pilot.**  
-> Seamlessly navigate the Solana blockchain, manage tokens, and stay informed.
+> Explore the Solana blockchain, manage tokens, and stay informed.
 
 ---
 
