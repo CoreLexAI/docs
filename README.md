@@ -47,7 +47,7 @@
 
 ## Community & Support
 
-- **Twitter** – Follow us on [Twitter](https://x.com/CoreLexHQ) for announcements, tips, and community news.
+- **Twitter** – Follow us on [Twitter](https://x.com/CoreLexAI) for announcements, tips, and community news.
 - **Telegram** - Drop us a message at: [Telegram](https://t.me/corelex_ai).
 - **GitHub** – Explore our open-source repositories on [GitHub](https://github.com/corelex-ai).  
 
